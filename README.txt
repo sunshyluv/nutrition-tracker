@@ -1,28 +1,17 @@
-🌿 My Nutrition Tracker
-Calories · Protein · Carbs · Fiber · Water
-♡
-‹
+MY NUTRITION TRACKER — QUICK START
 
-›
-Water
-0 oz
-of 64 oz
-💧
+This is a simple, no-subscription web app for manually logging calories, protein, carbs, and fiber. It includes daily goals, day-by-day history, CSV export, and a JSON backup.
 
-+8 oz
-+12 oz
-+16 oz
-Custom
-Reset water for this day
-Today's meals
+IMPORTANT
+- The app stores entries in the browser on the device where you use it.
+- For reliable iPhone Home Screen installation, host index.html as a website first. A free static host such as GitHub Pages can do this.
+- Entries do not automatically sync between devices. Use Export CSV / Download backup to keep a copy.
+- This app does not have automatic food lookup or barcode scanning; enter values from nutrition labels or your chosen source.
 
-＋ Add food
-Food values are entered by you. Use the numbers on labels or a trusted nutrition source for the best estimate.
-⌂
-Home
-＋
-Add food
-▥
-History
-⚙
-Goals
+After the site is online on your iPhone:
+1. Open the site in Safari.
+2. Tap the Share button.
+3. Choose Add to Home Screen (or Add to Home Screen under the More menu).
+4. Name it “Nutrition Tracker” and tap Add.
+
+Suggested starting goals in the app are examples only. Open Goals to change them to targets appropriate for you.
